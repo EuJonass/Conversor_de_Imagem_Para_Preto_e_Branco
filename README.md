@@ -1,0 +1,1 @@
+# Conversor_de_Imagem_Para_Preto_e_Branco
